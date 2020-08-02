@@ -3,7 +3,7 @@
  in this project i used PHP , js , jQuery and MySQL to build this whole app
  Lead Create, Login and Lead managment
 
-## to access this project you need to do make the following steps :
+## to access this project all you need to do is the following steps :
 - put this folder in htdocs
 - create the DataBase - you have the SQL statement from landingpage_app.sql
 - open XAMPP and make sure that MySQl is ON.
